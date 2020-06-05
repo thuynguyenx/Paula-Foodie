@@ -1,2 +1,4 @@
 Das ist ein Testsatz von Daniel.
 Bitte versucht mal diese Datei zu verändern :)
+Ich führe mal den Test fort.
+CENK/ Ich mach das mal in einer neuen branch. Muss dann ein andere Contributor diese bestätigen?
