@@ -1,1 +1,2 @@
 Django~=2.2.12
+C:\Users\HP\djangogirls> python -m pip install -r requirements.txt
