@@ -11,7 +11,7 @@ class Post(models.Model):
     created_date = models.DateTimeField(default=timezone.now)
     published_date = models.DateTimeField(blank=True, null=True)
     ingredients = models.CharField(max_length=400)
-    allergy = models.CharField(max_length=300)
+    allergies = models.CharField(max_length=300)
 
     def publish(self):
         self.published_date = timezone.now()
