@@ -1,2 +1,4 @@
 Das ist ein Testsatz von Daniel.
 Bitte versucht mal diese Datei zu verändern :)
+
+Thuy: Test
